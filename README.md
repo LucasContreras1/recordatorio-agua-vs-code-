@@ -1,65 +1,75 @@
-# Enter README
+# 💧 Recordatorio de Agua 💧
 
-This is the README for your extension "Enter". After writing up a brief description, we recommend including the following sections.
-
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+Una extensión simple pero útil para Visual Studio Code que te recuerda hidratarte durante tus sesiones de programación.
 
 ---
 
-## Working with Markdown
+## Características
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+* **Recordatorio automático:** Te envía una notificación cada 30 minutos para que no olvides beber agua.
+* **Notificaciones interactivas:** Te permite confirmar que has bebido agua o posponer el recordatorio.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+---
 
-## For more information
+## Uso
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1.  Abre Visual Studio Code.
+2.  Presiona `F5` para activar la extensión en modo de depuración.
+3.  La notificación aparecerá automáticamente cada 30 minutos. También puedes abrir la paleta de comandos (`Ctrl + Shift + P`) y buscar "Recordatorio de Agua" para activarla manualmente.
 
-**Enjoy!**
+---
+
+## Requisitos
+
+No hay requisitos o dependencias adicionales para usar esta extensión.
+
+---
+
+## Problemas conocidos
+
+Si el recordatorio no aparece, asegúrate de que la extensión esté activa en modo de depuración.
+
+---
+
+## Autor
+
+Creado por [Lucas]
+
+
+
+# 💧 Water Reminder 💧
+
+A simple yet useful Visual Studio Code extension that reminds you to hydrate during your coding sessions.
+
+---
+
+## Features
+
+* **Automatic Reminder:** It sends you a notification every 30 minutes so you don't forget to drink water.
+* **Interactive Notifications:** Allows you to confirm that you have drunk water or snooze the reminder.
+
+---
+
+## Usage
+
+1.  Open Visual Studio Code.
+2.  Press `F5` to activate the extension in debug mode.
+3.  The notification will automatically appear every 30 minutes. You can also open the command palette (`Ctrl + Shift + P`) and search for "Water Reminder" to activate it manually.
+
+---
+
+## Requirements
+
+There are no additional requirements or dependencies to use this extension.
+
+---
+
+## Known Issues
+
+If the reminder does not appear, make sure the extension is active in debug mode.
+
+---
+
+## Author
+
+Created by [Lucas]
